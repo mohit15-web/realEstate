@@ -1,8 +1,20 @@
-# React + Vite
+# 🏡 Real Estate Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Introduction
+The Real Estate Project is a web application designed to help users browse, filter, and find real estate properties. The application provides functionalities to search for properties based on various criteria such as city, date, price range, and property type.
+
+## Features
+- 🔍 Browse properties with images, prices, and descriptions.
+- 🏙️ Filter properties by city, date, price range, and property type.
+- 🏡 View detailed information about each property.
+
+
+## Tech Stack
+- **Frontend**: React, Redux, TailwindCSS
+- **Deployment**: Vercel
